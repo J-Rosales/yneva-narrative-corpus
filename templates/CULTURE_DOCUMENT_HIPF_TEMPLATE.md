@@ -8,6 +8,6 @@ refs:
   hipf: "https://github.com/J-Rosales/historically-informed-plausibility-framework"
 ---
 
-# <Constraint reference title>
+# Template: World Constraint Reference (<Constraint reference title>)
 
 <Instance constraints only; no new general theory.>

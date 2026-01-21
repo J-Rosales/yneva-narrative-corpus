@@ -9,6 +9,6 @@ refs:
   narratives: ["<relative paths into corpus/>"]
 ---
 
-# <Entry title>
+# Template: Timeline Entry (<Entry title>)
 
 <Minimal, neutral summary.>

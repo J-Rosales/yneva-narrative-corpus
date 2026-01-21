@@ -9,4 +9,4 @@ Primary narrative materials for Yneva.
 
 ## Document format
 
-New documents should use **YAML frontmatter** (see `templates/CORPUS_DOCUMENT.md`).
+New documents should use **YAML frontmatter** (see `templates/CORPUS_DOCUMENT_HIPF_TEMPLATE.md`).

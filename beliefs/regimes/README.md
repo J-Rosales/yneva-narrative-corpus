@@ -7,4 +7,4 @@ Belief regimes:
 - can overlap and fragment
 - do not imply doctrinal unity
 
-Use the template in `templates/BELIEF_REGIME.md`.
+Use the template in `templates/BELIEF_REGIME_HIPF_TEMPLATE.md`.

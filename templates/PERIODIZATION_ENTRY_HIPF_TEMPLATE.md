@@ -8,7 +8,7 @@ refs:
   hipf: "https://github.com/J-Rosales/historically-informed-plausibility-framework"
 ---
 
-# Periodization Scheme: <Name>
+# Template: Periodization Scheme (<Name>)
 
 ## Major periods
 - <Name>: <range>

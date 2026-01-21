@@ -16,7 +16,7 @@ refs:
   hipf: "https://github.com/J-Rosales/historically-informed-plausibility-framework"
 ---
 
-# Belief Regime: <Provisional Name>
+# Template: Belief Regime (<Provisional Name>)
 
 ## Motif clusters
 

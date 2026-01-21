@@ -10,7 +10,7 @@ refs:
   hipf: "https://github.com/J-Rosales/historically-informed-plausibility-framework"
 ---
 
-# <World constraint: Name>
+# Template: World Constraint (<World constraint: Name>)
 
 ## Identification
 - Names / endonyms / exonyms:

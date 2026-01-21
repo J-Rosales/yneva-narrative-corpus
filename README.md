@@ -39,7 +39,7 @@ Period naming and boundaries used for indexing.
 ## Document headers
 
 For new documents, prefer **YAML frontmatter** for machine-readability.
-Templates are provided under `templates/`.
+Templates are provided under `templates/` (HIPF template filenames end in `_HIPF_TEMPLATE.md`).
 
 ## What this repository is not
 

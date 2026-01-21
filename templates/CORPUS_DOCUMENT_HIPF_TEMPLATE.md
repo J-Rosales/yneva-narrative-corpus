@@ -11,6 +11,6 @@ date:
 transmission: "<oral|copied|archived|rediscovered|...>"
 ---
 
-# <Title>
+# Template: Corpus Document (<Title>)
 
 <Text>
