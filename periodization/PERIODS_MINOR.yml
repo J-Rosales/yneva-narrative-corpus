@@ -1,0 +1,33 @@
+﻿Archaic Period:
+  range: "19976 B.R. – 418 B.R."
+  subperiods:
+    - name: Arboreal Age
+      range: null
+    - name: Lacunic Age
+      range: null
+    - name: Theomachic Age
+      range: null
+    - name: Diasporic Age
+      range: null
+
+Ancient Period:
+  range: "418 B.R. – 1 B.R."
+  subperiods:
+    - name: First Cosmopolitan Age
+      range: null
+    - name: Pastoralist Age
+      range: null
+    - name: Pre-Luminary Age
+      range: null
+    - name: Luminary Age
+      range: null
+
+Manorial Period:
+  range: "1 A.R. – 800 A.R."
+  subperiods:
+    - name: Second Cosmopolitan Age
+      range: null
+    - name: Biregnal Age
+      range: null
+    - name: Sollerian Age
+      range: null
