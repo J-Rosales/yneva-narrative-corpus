@@ -1,3 +1,45 @@
+---
+title: Pressure Lattice Candidates (Confirmation)
+document_type: world_constraint
+scope: lattices
+status: confirmation
+notes:
+  - Confirms candidate lattices, lenses, axes, and pressures for Yneva.
+  - Species baselines modify expression without redefining HIPF criteria.
+lattices:
+  - Administrative Capacity Lattice
+  - Legitimacy & Succession Lattice
+  - Demography & Settlement Viability Lattice
+  - Agrarian Carrying & Food Security Lattice
+  - Military Logistics & Mobilization Lattice
+  - Trade & Exchange Resilience Lattice
+  - Infrastructure & Built Environment Lattice
+lenses:
+  - Ecological Lens
+  - Frontier Lens
+  - Religious-Authority Lens
+  - Ethnolinguistic Mosaic Lens
+  - Maritime Orientation Lens
+  - Metallurgy Lens
+  - Calendar/Ritual Lens
+axes:
+  - Centralized ↔ Fragmented Polity Structure
+  - Maritime ↔ Terrestrial Orientation
+  - Urbanized ↔ Dispersed Settlement Pattern
+  - Ritual-Heavy ↔ Pragmatic Governance
+  - Closed ↔ Open Trade Posture
+  - Dynastic ↔ Charismatic Succession Norms
+pressures:
+  - Climatic Volatility
+  - Succession Crisis
+  - Epidemic Waves
+  - Resource Depletion
+  - Trade Disruption
+  - Frontier Incursions
+  - Technological Inflection
+  - Religious Schism
+---
+
 # Pressure Lattice Candidates (Confirmation)
 
 This document confirms candidate **lattices, lenses, axes, and pressures** for Yneva while explicitly noting that **species baselines modify expression**. These are **world-instance constraints** that reference HIPF, not a new plausibility framework.
