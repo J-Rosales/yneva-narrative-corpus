@@ -1,3 +1,9 @@
+---
+refs:
+  hipf: "https://github.com/J-Rosales/historically-informed-plausibility-framework"
+  hicel: "https://github.com/J-Rosales/historically-informed-causal-encoding-layer"
+---
+
 # Justification for Selected Lattices, Lenses, Axes, and Pressures
 
 This document records **why each selected lattice, lens, axis, and pressure** is retained for Yneva. It does not redefine HIPF rules; it only justifies **world-instance choices**.

@@ -1,5 +1,7 @@
 ﻿# Major Periods
 
+HICEL alignment: this file functions as the narrative index for `PeriodizationIndex` while structured subperiod data lives in `PERIODS_MINOR.yml`.
+
 This document defines the current high-level periodization of the Yneva world chronology.
 
 These periods are **historiographical partitions**, not claims of canonical truth.

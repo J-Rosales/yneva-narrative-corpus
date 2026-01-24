@@ -7,6 +7,8 @@ scope:
 tags: ["<optional>"]
 refs:
   narratives: ["<relative paths into corpus/>"]
+  hipf: "https://github.com/J-Rosales/historically-informed-plausibility-framework"
+  hicel: "https://github.com/J-Rosales/historically-informed-causal-encoding-layer"
 ---
 
 # Template: Timeline Entry (<Entry title>)

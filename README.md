@@ -10,6 +10,12 @@ All structural plausibility rules, admissibility criteria, and evaluative langua
 
 - https://github.com/J-Rosales/historically-informed-plausibility-framework
 
+## Representation layer: Historically-Informed Causal Encoding Layer (HICEL)
+
+Encoding conventions and schema structure for representation are defined by HICEL:
+
+- https://github.com/J-Rosales/historically-informed-causal-encoding-layer
+
 This repository contains **no internal plausibility constitution**. See `constitution/README.md`.
 
 ## Repository structure
@@ -46,4 +52,3 @@ Templates are provided under `templates/` (HIPF template filenames end in `_HIPF
 - Not a canonical "what really happened" database
 - Not a simulation engine
 - Not a framework defining plausibility rules (HIPF provides that)
-
