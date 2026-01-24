@@ -6,6 +6,10 @@ All structural plausibility rules, admissibility criteria, evaluative language, 
 
 - https://github.com/J-Rosales/historically-informed-plausibility-framework
 
+Representation conventions and schema structure are defined by the **Historically-Informed Causal Encoding Layer (HICEL)**:
+
+- https://github.com/J-Rosales/historically-informed-causal-encoding-layer
+
 ## Yneva-specific parameterization
 
 Yneva-specific constraints and affordances belong in:

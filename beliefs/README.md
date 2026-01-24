@@ -7,3 +7,5 @@ This directory contains non-diegetic reference material for modeling religions, 
 - `notes/`: cross-regime lineage notes, modeling notes, and methodological guidance.
 
 Do not place in-world texts here; those belong in `corpus/`.
+
+Belief regime documents should align to HICEL `BeliefRegimeModel` representation conventions.

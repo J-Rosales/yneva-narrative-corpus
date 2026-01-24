@@ -6,6 +6,7 @@ scope:
 dating_conventions: "<B.R./A.R. or other>"
 refs:
   hipf: "https://github.com/J-Rosales/historically-informed-plausibility-framework"
+  hicel: "https://github.com/J-Rosales/historically-informed-causal-encoding-layer"
 ---
 
 # Template: Periodization Scheme (<Name>)

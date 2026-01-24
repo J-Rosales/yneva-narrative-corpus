@@ -7,6 +7,7 @@ The `timeline/` directory provides a thin, non-diegetic chronology used for navi
 - Dates may be fuzzy; deep-time entries are coarse.
 - Timeline does not resolve contradictions found in `corpus/`.
 - Timeline records recognized changes (foundings, collapses, transformations), not daily life.
+- Timeline entries should align to HICEL `TimelineEntry` and `TemporalMarker` conventions.
 
 ## Dating
 - Uses B.R. / A.R.
@@ -16,3 +17,4 @@ The `timeline/` directory provides a thin, non-diegetic chronology used for navi
 ## Linking
 - Prefer linking entries to corpus documents via `Narratives:` lists.
 - If an entry is disputed, mark `Status: disputed` and keep the summary minimal.
+- Future entries should include `refs.hicel` to document the schema reference.

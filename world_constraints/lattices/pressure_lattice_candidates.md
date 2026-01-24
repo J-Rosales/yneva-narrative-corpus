@@ -6,6 +6,9 @@ status: confirmation
 notes:
   - Confirms candidate lattices, lenses, axes, and pressures for Yneva.
   - Species baselines modify expression without redefining HIPF criteria.
+refs:
+  hipf: "https://github.com/J-Rosales/historically-informed-plausibility-framework"
+  hicel: "https://github.com/J-Rosales/historically-informed-causal-encoding-layer"
 lattices:
   - Administrative Capacity Lattice
   - Legitimacy & Succession Lattice
